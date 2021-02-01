@@ -9,3 +9,7 @@
 .nested {
   border: 1px solid white;
 }
+
+.padding {
+  padding: 3px;
+}
